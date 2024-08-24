@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    padding:  8rem 4rem 5rem;
+    height: 100vh;
+}
+
+.about span{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #ffba5b;
+}
+
+.about h1{
+    font-size: 4rem;
+    color: #fff;
+}
+
+.desc h3{
+    font-size: 1.1rem;
+    color: #EAE8EB;
+    font-weight: 400;
+    line-height: 1.8;
+}
+
